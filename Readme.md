@@ -1,5 +1,7 @@
 # Monokai Obsidian Theme
 
+![Monokai](./Monokai.jpeg)
+
 This is a very minimal theme that hides a lot of parts of the UI away until you hover over it.
 
 ## The changes
