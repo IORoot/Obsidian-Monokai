@@ -1,6 +1,6 @@
 # Monokai Obsidian Theme
 
-![Monokai](./Monokai.jpeg)
+![Monokai](https://github.com/IORoot/Obsidian-Monokai/blob/710bc22352e1348cff45063d68aab99fdcc01bf3/Monokai.jpeg)
 
 A very minimal theme (with a customisable logo) that hides the GUI away until you hover over it.
 
