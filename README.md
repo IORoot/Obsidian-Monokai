@@ -35,7 +35,7 @@ A very minimal theme (with a customisable logo) that hides the GUI away until yo
 
 ##  2. <a name='AboutTheProject'></a>About The Project
 
-![Monokai](https://github.com/IORoot/Obsidian-Monokai/blob/710bc22352e1348cff45063d68aab99fdcc01bf3/Monokai.jpeg)
+![Monokai](https://github.com/IORoot/Obsidian-Monokai/blob/710bc22352e1348cff45063d68aab99fdcc01bf3/Monokai.jpeg?raw=true)
 
 This is an Obsidian Monokai theme. Built just because I wanted my obsidian instance to be cleaner.
 
